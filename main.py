@@ -1,0 +1,1 @@
+age = print("Your age is " + input("What is you age? "))
